@@ -273,9 +273,9 @@ section{
 }
 
 .temoignage .contenu .box .imbox{
-    width: 80px;
-    height: 80px;
-    border-radius: 50px;
+    width: 200px;
+    height: 90px;
+    /*border-radius: 50px;*/
     position: relative;
     margin-bottom: 20px;
     overflow: hidden;
